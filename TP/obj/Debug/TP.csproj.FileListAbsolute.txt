@@ -1,0 +1,11 @@
+C:\Users\RIO\source\repos\TP\TP\bin\Debug\TP.exe.config
+C:\Users\RIO\source\repos\TP\TP\bin\Debug\TP.exe
+C:\Users\RIO\source\repos\TP\TP\bin\Debug\TP.pdb
+C:\Users\RIO\source\repos\TP\TP\obj\Debug\TP.csprojAssemblyReference.cache
+C:\Users\RIO\source\repos\TP\TP\obj\Debug\TP.Form1.resources
+C:\Users\RIO\source\repos\TP\TP\obj\Debug\TP.Properties.Resources.resources
+C:\Users\RIO\source\repos\TP\TP\obj\Debug\TP.csproj.GenerateResource.cache
+C:\Users\RIO\source\repos\TP\TP\obj\Debug\TP.csproj.CoreCompileInputs.cache
+C:\Users\RIO\source\repos\TP\TP\obj\Debug\TP.exe
+C:\Users\RIO\source\repos\TP\TP\obj\Debug\TP.pdb
+C:\Users\RIO\source\repos\TP\TP\obj\Debug\TP.Form2.resources

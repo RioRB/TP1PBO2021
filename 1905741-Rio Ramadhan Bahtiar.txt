@@ -1,0 +1,16 @@
+1905741
+Rio Ramadhan Bahtiar
+
+Saya Rio Ramadhan Bahtiar mengerjakan TP1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk 
+keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan.
+Aamiin.
+
+Fitur yang ada:
+- Login
+- Menu Utama
+- Pencarian (X)
+- Menu Detail (X)
+
+Login :
+Username : admin
+Password : pbo123
